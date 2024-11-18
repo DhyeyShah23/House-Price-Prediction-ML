@@ -1,6 +1,6 @@
 # House Price Prediction using Linear Regression
 
-This repository contains a simple machine learning model that predicts house prices based on the area of the house using a linear regression algorithm.
+This repository contains my first and a simple machine learning model that predicts house prices based on the area of the house using a linear regression algorithm.
 
 ## Project Overview
 
